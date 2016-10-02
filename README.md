@@ -41,7 +41,7 @@ difference() {
 
 By default, all parts have their origin extending in the negative Z direction,
 with the head of the part at [0, 0, 0]. You can place the head above the X-Y
-plane by specifying the optional parameter `inset=1`
+plane by specifying the optional parameter `inset=0`
 
 ```scad
 use <Metric/M3.scad>;
